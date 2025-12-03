@@ -431,7 +431,7 @@ export default function Home() {
               {
                 step: "01",
                 title: "Заявка",
-                text: "Пишите в Telegram или оставляете заявку — коротко описываете ситуацию.",
+                text: "Пишите в Telegram  — коротко описываете ситуацию.",
               },
               {
                 step: "02",
